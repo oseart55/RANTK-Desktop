@@ -1,9 +1,0 @@
-directories:
-  output: dist
-  buildResources: build
-appId: com.RANTK.autoupdater
-productName: Autoupdater app
-win:
-  target: nsis
-files: []
-electronVersion: 19.1.9
